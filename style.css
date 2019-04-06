@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    background-color: rgb(175, 203, 2);
+    color: white;
+}
+
+.container{
+    width: 50%;
+}
+
+.box{
+    display:inline-block;
+    padding-top: 30%;
+    width: 30%;
+    border: 1px solid black;
+    margin: 1.66%;
+    border-radius: 10%;
+}
+
