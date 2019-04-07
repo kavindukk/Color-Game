@@ -1,19 +1,21 @@
-.header{
-    text-align: center;
-    background-color: rgb(175,203,2);
-    color: white;
-}
-
-.container{
-    width: 50%;
-}
-
-.box{
-    display:inline-block;
-    padding-top: 30%;
+.colorbox{
     width: 30%;
-    border: 1px solid black;
+    padding-bottom: 30%;
     margin: 1.66%;
-    border-radius: 10%;
+    background-color: blueviolet;  
+    float: left;  
 }
 
+#container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    background-color: green;
+}
