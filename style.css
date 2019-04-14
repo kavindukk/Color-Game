@@ -19,3 +19,12 @@ h1{
     color: white;
     background-color: green;
 }
+
+#menu{
+    background-color: white;
+}
+
+#result{
+    text-align: center;
+    display: inline-block;    
+}
